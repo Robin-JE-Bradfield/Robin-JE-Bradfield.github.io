@@ -2,4 +2,4 @@ Hi! I'm a fourth-year biochemistry student at Oxford with an interest in machine
 
 <h1>Projects</h1>
 
-[Gene Perturbation Correlate Predictor](https://robin-je-bradfield.github.io/gene_perturbation_correlate_predictor)
+[Gene Perturbation Correlate Predictor](https://robin-je-bradfield.github.io/gene-perturbation-correlate-predictor)
