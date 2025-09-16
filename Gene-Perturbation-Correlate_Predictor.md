@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Gene Perturbation Correlate Predictor"
 permalink: /gene-perturbation-correlate-predictor/
 ---
