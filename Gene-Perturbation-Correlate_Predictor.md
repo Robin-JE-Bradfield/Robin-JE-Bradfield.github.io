@@ -1,6 +1,6 @@
 layout: page
 title: "Gene Perturbation Correlate Predictor"
-permalink: /gene-perturbation-correlate-predictor
+permalink: /gene-perturbation-correlate-predictor/
 
 # Gene-Perturbation-Correlate-Predictor
 This project is intended to use data from the [Cell x Gene Census](https://cellxgene.cziscience.com/), or from other sources, to train a model to predict how expression levels of genes might change given an initial expression state and a perturbation of the expression levels of one or more genes.
