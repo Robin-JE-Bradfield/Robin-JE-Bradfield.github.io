@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Non-Complementary Sequence Generator"
+permalink: /non-complementary-sequence-generator/
+---
+
 # Non-Complementary-Sequence-Generator
 This project is a Python program intended to generate sequences with minimal complementarity to a provided set of input sequences, for use cases such as designing linker sequences in oligonucleotides which should not bind strongly to other sequences present in the system. I wrote it primarily as practice with Python and for my own personal use, but have made it available here in case others also find it useful. Other tools for this task also exist, such as NUPACK's [Design functionality](https://www.nupack.org/design/input).
 
