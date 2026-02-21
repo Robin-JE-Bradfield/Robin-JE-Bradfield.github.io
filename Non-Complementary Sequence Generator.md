@@ -26,7 +26,7 @@ The tool uses an internal class called SequenceFramework, which stores a framewo
 - Element: List of the form [int, str, int], where the string is the currently stored sequence (5' to 3') and the flanking integers are the number of nucleotides to be expanded from that central sequence in the 5' and 3' directions respectively.
 - Property Dictionary: Dictionary currently containing two key-value pairs, 'circ' (Boolean, is the strand circular) and 'nts' (list of one-character strings, nucleotides to be used for generating sequence within the strand).
 
-The starting framework can be submitted in this format. However, for ease of use, the class also accepts some other formats. The input format must always have a top-level list (Framework) and sublists (strands), but strands do not need to include a seq_strand and property_dict; instead, the property_dict can if desired be included as one of the items in the strand at the same level asthe sequence and gap information.
+The starting framework can be submitted in this format. However, for ease of use, the class also accepts some other formats. The input format must always have a top-level list (Framework) and sublists (strands), but strands do not need to include a seq_strand and property_dict; instead, the property_dict can if desired be included as one of the items in the strand at the same level as the sequence and gap information.
 
 Depending on the value of framework_input_format, strands can encode sequence and gap information in two ways.
 - 'element' mode: Strands must contain elements of [int, str, int].
