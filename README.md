@@ -4,4 +4,4 @@ Hi! I'm a fourth-year biochemistry student at Oxford with an interest in machine
 
 [Gene Perturbation Correlate Predictor](https://robin-je-bradfield.github.io/gene-perturbation-correlate-predictor)
 
-[Non-Complementary Sequence Generator/](https://robin-je-bradfield.github.io/non-complementary-sequence-generator/)
+[Non-Complementary Sequence Generator/](https://robin-je-bradfield.github.io/non-complementary-sequence-generator)
